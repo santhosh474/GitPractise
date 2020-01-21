@@ -13,5 +13,16 @@ public class SeleniumTest {
 		//commit from Git
 		System.out.println("Testing Maven4");
 	}
+	
+	//created by develope branch
+	@Test
+	public void mavenTestTutorialDevelope() {
+		System.out.println("Testing Maven from Develope branch");
+		System.out.println("Testing Maven2 from Develope branch");
+		System.out.println("Testing Maven3 from Develope branch");
+		
+		//commit from Git
+		System.out.println("Testing Maven4 from Develope branch");
+	}
 
 }
