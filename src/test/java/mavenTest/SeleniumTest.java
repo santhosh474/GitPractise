@@ -14,7 +14,7 @@ public class SeleniumTest {
 		System.out.println("Testing Maven4");
 	}
 	
-	//created by develope branch
+	//created by develope branch from GitPractise i.e. IST
 	@Test
 	public void mavenTestTutorialDevelope() {
 		System.out.println("Testing Maven from Develope branch");
@@ -23,6 +23,18 @@ public class SeleniumTest {
 		
 		//commit from Git
 		System.out.println("Testing Maven4 from Develope branch");
+	}
+	
+	
+	//created by new brach develope from Git i.e. EST
+	@Test
+	public void mavenTestTutorialGitDevelope() {
+		System.out.println("Testing Maven from Develope branch of Git");
+		System.out.println("Testing Maven2 from Develope branch of Git");
+		System.out.println("Testing Maven3 from Develope branch of Git");
+		
+		//commit from Git
+		System.out.println("Testing Maven4 from Develope branch of Git");
 	}
 
 }
