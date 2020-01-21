@@ -9,6 +9,9 @@ public class SeleniumTest {
 		System.out.println("Testing Maven");
 		System.out.println("Testing Maven2");
 		System.out.println("Testing Maven3");
+		
+		//commit from Git
+		System.out.println("Testing Maven4");
 	}
 
 }
